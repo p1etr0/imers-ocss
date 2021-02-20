@@ -12,6 +12,12 @@ a{
 a:hover{
     text-decoration: underline;
 }
+
+.contatos{
+    color: white;
+    
+}
+
 .menu{
     background-color: whitesmoke;
 
