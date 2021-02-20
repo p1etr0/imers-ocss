@@ -13,30 +13,42 @@ a:hover{
     text-decoration: underline;
 }
 
-.contatos{
+#rodape{
+    height: 50px;
+    background-color: black;
+    padding: 100px;
     padding-left: 100px;
-    position: relative;
+    position:relative;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: medium;
+    font-size: 30px;
 
 }
-
-#samara{
-    font-size: 50px;
+#portfolio{
+    background-color: red;
+    height: 500px;
 }
+
 #linked{
 color:white
 }
-.descricao{
-    height: 550px;
+#sobre{
+    background-color:black;
+    height: 600px;
     color:white;
+}
+#descricao{
+    padding: 150px;
+    text-align: left;
+}
+
+#titulo-sobre{
+    padding: 80px;
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-
 .menu{
     background-color: whitesmoke;
 
